@@ -1,35 +1,66 @@
 		h1 {
-		font-weight: bold;
-		text-align: center;
-		background-color: #D2E810;
+			font-weight: bold;
+			text-align: center;
+			background-color: #D2E810;
 		}	
 		.bh3 {
-		color: blue;
-		font-family: sans-serif;
-		position: absolute;
-		left: 535px;
+			color: blue;
+			font-family: sans-serif;
+			position: absolute;
+			left: 535px;
 		}
 		.background {
-		color: black;
-		font-size: 17px;
-		background-color: yellow;
-		width: 300px;
-		height: 150px;
-		border: 8px ridge rgb(38, 38, 38);
-		position: absolute;
-		left: 525px;
-		bottom:365px;
+			color: black;
+			font-size: 17px;
+			background-color: yellow;
+			width: 300px;
+			height: 150px;
+			border: 8px ridge rgb(38, 38, 38);
+			position: absolute;
+			left: 525px;
+			bottom:365px;
 		}
 		p {
-		padding: 1%;
+			padding: 1%;
 		}
 		.list {
-		font-size: 1em;
+			font-size: 1em;
 		}
 		#links {
-		padding: 10px;
-		position: fixed;
+			padding: 10px;
+			position: fixed;
 		}
 		#FF {
-		font-family: Ravi Prakash, cursive;
-		text-align: right;
+			font-family: Ravi Prakash, cursive;
+			text-align: right;
+		}
+		.logo {
+			position: absolute;
+			left: 150px;
+			down: 300px;
+		}
+		#FFlist {
+			position: absolute;
+			margin-left: 1150px;
+		}
+		hr {
+			color: red;
+			position: absolute;
+			down: 600px;
+			left: 100px;
+		}
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 30px;
+		}
