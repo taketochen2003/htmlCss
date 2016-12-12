@@ -1,0 +1,26 @@
+/***************************************************************************************************************************
+
+                                                    September 30, 2016
+
+***************************************************************************************************************************/
+
+Objective: Demonstrate how to use the HTML5 shell.
+
+html tags--> <p>paragraph</p>
+
+							HTML Shell
+
+	<!DOCTYPE html>
+	<html>
+		<head>
+			<meta charset="UTF-8">
+			<title>My Awesome Website</title>
+			<style>
+			<p>Style="background-color:#005500;"</p>
+			</style>
+		</head>
+
+		<body>
+			<p></p>
+		</body>
+	</html>
