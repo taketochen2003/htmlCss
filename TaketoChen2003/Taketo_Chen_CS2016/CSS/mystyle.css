@@ -1,4 +1,5 @@
-		h1 {
+
+		.h1title {
 			font-weight: bold;
 			text-align: center;
 			background-color: #D2E810;
@@ -14,11 +15,11 @@
 			font-size: 17px;
 			background-color: yellow;
 			width: 300px;
-			height: 150px;
+			height: 160px;
 			border: 8px ridge rgb(38, 38, 38);
 			position: absolute;
 			left: 525px;
-			bottom:365px;
+			bottom:345px;
 		}
 		p {
 			padding: 1%;
@@ -41,26 +42,60 @@
 		}
 		#FFlist {
 			position: absolute;
-			margin-left: 1150px;
+			margin-left: 1050px;
 		}
 		hr {
-			color: red;
-			position: absolute;
-			down: 600px;
-			left: 100px;
+			position: relative;
+			top: 200px;
+			width: 80%;
+			
 		}
-
-
-
-
-
-
-
-
-
-
-
-
-
- 30px;
+		.owl {
+			position: absolute;
+			top: 375px;
+			left: 575px;
+		}
+		#foods {
+			position: absolute;
+			top: 510px;
+			background-color: rgb(143, 164, 198);
+			left: 550px;
+		}
+		.pets {
+			position: absolute;
+			top: 700px;
+			left: 350px;
+		#petsh {
+			position: absolute;
+			top: 600px;
+		}
+		
+		#hr2 {
+			position: relative;
+			top: 500px;
+		}
+		.pizza {
+			position: absolute;
+			left: 900px;
+			top: 600px;
+		}
+		.pasta {
+			position: absolute;
+			left: 275px;
+			top: 475px;
+		}
+		.sushi {
+			position: absolute;
+			top: 375px;
+			left: 275px;
+		}
+		.icecream {
+			position: absolute;
+			top: 350px;
+			left: 950px;
+		}
+		.foodli {
+			position: absolute;
+			top: 500px;
+			left: 600px;
 		}
