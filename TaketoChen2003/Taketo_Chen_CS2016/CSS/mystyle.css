@@ -1,5 +1,5 @@
 
-		.h1title {
+.h1title {
 			font-weight: bold;
 			text-align: center;
 			background-color: #D2E810;
@@ -37,8 +37,8 @@
 		}
 		.logo {
 			position: absolute;
-			left: 150px;
-			down: 300px;
+			left: 250px;
+			bottom: 350px;
 		}
 		#FFlist {
 			position: absolute;
@@ -63,11 +63,13 @@
 		}
 		.pets {
 			position: absolute;
-			top: 700px;
+			top: 950px;
 			left: 350px;
+		}
 		#petsh {
 			position: absolute;
-			top: 600px;
+			top: 900px;
+			left: 625px;
 		}
 		
 		#hr2 {
@@ -96,6 +98,11 @@
 		}
 		.foodli {
 			position: absolute;
-			top: 500px;
+			top: 650px;
+			left: 585px;
+		}
+		.favpet {
+			position: absolute;
+			top: 1125px;
 			left: 600px;
 		}
